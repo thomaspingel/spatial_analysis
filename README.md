@@ -3,11 +3,11 @@ These notebooks with require an installation of [ArcGIS Pro](https://apps.itpals
 #### Anaconda installation instructions
 * [Download and install the software](https://www.anaconda.com/products/individual).  It's free, and can install on Windows, Linux, and Mac.
 * The default installation of Anaconda comes with numpy, Pandas, matplotlib, and many other useful packages.  However, it does not come with many geospatial packages.  
-* Install instructions after opening an Anaconda command window (paste these three lines in, one-at-a-time).
+* Install instructions after opening an Anaconda command window:
 ~~~
 conda create --name gis python=3.11 spyder jupyter jupyterlab numpy pandas matplotlib seaborn geopandas scikit-image rasterio statsmodels openpyxl
-conda activate gis
 ~~~
+
 From here, you should be able to close the window, and use normally except that: when you open the Anaconda command window, in addition to changing directory to your working directory you'll need to type
 ~~~
 conda activate gis
