@@ -12,3 +12,10 @@ From here, you should be able to close the window, and use normally except that:
 ~~~
 conda activate gis
 ~~~ 
+
+#### Shortcut installation
+It's generally good to see how environments get created from scratch (as above).  But you can also run (only for Windows!):
+~~~
+conda create --name neil --file https://nearearthimaginglab.org/python/neil.20220730.txt
+conda activate neil
+~~~
