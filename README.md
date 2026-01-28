@@ -1,4 +1,4 @@
-These notebooks with require an installation of [ArcGIS Pro](https://apps.itpals.vt.edu/arcgis/ArcGIS_Pro_Installation_Instructions.pdf) and Anaconda with a class environment.
+These notebooks with require an installation of [ArcGIS Pro]([https://apps.itpals.vt.edu/arcgis/ArcGIS_Pro_Installation_Instructions.pdf](https://www.binghamton.edu/geography/gis/lab_resources.html)) and Anaconda with a class environment.
 
 #### Anaconda installation instructions
 * [Download and install the software](https://www.anaconda.com/products/individual).  It's free, and can install on Windows, Linux, and Mac.
