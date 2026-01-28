@@ -16,6 +16,6 @@ conda activate gis
 #### Shortcut installation
 It's generally good to see how environments get created from scratch (as above).  But you can also run (only for Windows!):
 ~~~
-conda create --name neil --file https://nearearthimaginglab.org/python/neil.20220730.txt
-conda activate neil
+conda create --name gis --file https://nearearthimaginglab.org/python/gis.20260126.txt
+conda activate gis
 ~~~
